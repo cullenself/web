@@ -1,6 +1,6 @@
 ## Aerospace Engineer
 ### Austin, TX 
-Aspiring student with both systems engineering design and software experience seeking an internship for Summer 2017.
+Aspiring student with both systems engineering design and software experience seeking full time employment.
 - - -
 ## Education
 ### The University of Texas at Austin, May 2018
