@@ -1,3 +1,8 @@
 #!/bin/bash
 ./create.sh
-sudo cp www/* /var/www/html/
+if [ "$1" = "m" ]; then
+    DIR="/Library/WebServer/Documents/"
+else
+    DIR="/var/www/html/"
+fi
+sudo cp www/* ${DIR}
