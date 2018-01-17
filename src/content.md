@@ -4,15 +4,15 @@ Aspiring student with both systems engineering design and software experience se
 - - -
 ## Education
 ### The University of Texas at Austin, May 2018
-Bachelor of Science - Aerospace Engineering, *Honors*
+Bachelor of Science - Aerospace Engineering Honors
 
 ## Projects
 
 ### Planet, Summer 2017
 As an engineering intern at [Planet](https://www.planet.com), I had the opportunity to work with functioning satellite GPS receivers to characterize and improve their on-orbit performance. I implemented signal quality measuring and reporting in a production enviroment to assist in orbital determination. Planet also provided me with the chance to fulfill a childhood dream, control a satellite. I planned, tested, and executed on-orbit tests of GPS capture techniques to combat RF interference.
 
-### GNSS Reference Network, Ongoing
-I've recently started work with Dr. Todd Humphreys in the UT [Radionavigation Lab](https://rnl.ae.utexas.edu/) designing and building a network of GNSS reference stations for use around the city of Austin. This includes the fabrication and assembly of the physical ground-station itself, as well as the wiring and soldering of the electronic componets required. It has been a challenge to maintain the availability of the ground-stations during adverse Texas weather. Other issues that need to be overcome characterizing exactly the properties of the receiver, which requires extensive testing and analysis.
+### GNSS Reference Network, Spring 2017 
+I worked with Dr. Todd Humphreys in the UT [Radionavigation Lab](https://rnl.ae.utexas.edu/) designing and building a network of GNSS reference stations for use around the city of Austin. This includes the fabrication and assembly of the physical ground-station itself, as well as the wiring and soldering of the electronic componets required. It has been a challenge to maintain the availability of the ground-stations during adverse Texas weather. Other issues that need to be overcome characterizing exactly the properties of the receiver, which requires extensive testing and analysis.
 
 ### Extended GNSS, Fall 2016
 Lockheed-Martin recently released key design and testing documents that detail how their GPS satellites perform. Using this data, I am working on testing the limits of GPS availability. Currently, Low Earth Orbit satellites are able to determine their position and velocity using GPS signals, but how high up could the GPS system work? I implemented a signal propagation model that includes calculating transmission and reception angles based on observed satellite positions and their calculated attitude. This model allows the received power of a GPS signal to be estimated at a particular location, which in combination with known receiver characteristics, can be used to determine observability. This is a work in progress ([here](https://github.com/cullenself/ExtendedGNSS)), but it currently seems that using GPS on the moon is impossible.
@@ -49,15 +49,15 @@ I have a few other projects up on my GitHub [page](http://github.com/cullenself)
 
 ## Things I'm Interested In
 - D3.js
-- Nginx
 - Orbit Estimation & Filtering
 - Statistical Uncertainty
 - UAV Swarm Dynamics
+- System Management
 
 ## Hobbies
-- Reading
 - Climbing
-- Playing Music
+- Playing Piano 
+- Reading
 - Cooking
 
 - - -
