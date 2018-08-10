@@ -1,6 +1,6 @@
 ## Aerospace Engineer
 ### Austin, TX 
-Aspiring student with both systems engineering design and software experience seeking full time employment.
+Aspiring Aerospace Engineer with both systems engineering design and software experience. 
 - - -
 ## Education
 ### The University of Texas at Austin, May 2018
@@ -9,7 +9,7 @@ Bachelor of Science - Aerospace Engineering Honors
 ## Projects
 
 ### Planet, Summer 2017
-As an engineering intern at [Planet](https://www.planet.com), I had the opportunity to work with functioning satellite GPS receivers to characterize and improve their on-orbit performance. I implemented signal quality measuring and reporting in a production enviroment to assist in orbital determination. Planet also provided me with the chance to fulfill a childhood dream, control a satellite. I planned, tested, and executed on-orbit tests of GPS capture techniques to combat RF interference.
+As an engineering intern at [Planet](https://www.planet.com), I had the opportunity to work with functioning satellite GPS receivers to characterize and improve their on-orbit performance. I implemented signal quality measuring and reporting in a production enviroment to assist in orbital determination. Planet also provided me with the chance to fulfill a childhood dream, control a satellite. I planned, tested, and executed on-orbit tests of GPS capture techniques to combat RF interference. I also worked with flat-sats to test and develop the next generation receiver for Planet's satellites.
 
 ### GNSS Reference Network, Spring 2017 
 I worked with Dr. Todd Humphreys in the UT [Radionavigation Lab](https://rnl.ae.utexas.edu/) designing and building a network of GNSS reference stations for use around the city of Austin. This includes the fabrication and assembly of the physical ground-station itself, as well as the wiring and soldering of the electronic componets required. It has been a challenge to maintain the availability of the ground-stations during adverse Texas weather. Other issues that need to be overcome characterizing exactly the properties of the receiver, which requires extensive testing and analysis.
@@ -32,8 +32,8 @@ I have a few other projects up on my GitHub [page](http://github.com/cullenself)
 ## Skills
 ### Languages
 - C
+- C++
 - Java
-- Javascript
 - Matlab
 - Mathematica
 - Markdown
@@ -45,10 +45,10 @@ I have a few other projects up on my GitHub [page](http://github.com/cullenself)
 - LaTeX
 - Linux
 - Microsoft Office
+- STK
 - Windows
 
 ## Things I'm Interested In
-- D3.js
 - Orbit Estimation & Filtering
 - Statistical Uncertainty
 - UAV Swarm Dynamics
