@@ -1,12 +1,15 @@
 ## Aerospace Engineer
 ### Austin, TX 
-Aspiring Aerospace Engineer with both systems engineering design and software experience. 
+Aspiring Engineer with both systems engineering and software design experience. 
 - - -
 ## Education
 ### The University of Texas at Austin, May 2018
-Bachelor of Science - Aerospace Engineering Honors
+Bachelor of Science - Aerospace Honors Engineering, *Cum Laude*
 
 ## Projects
+
+### Fantasy Football, Fall 2018
+During the NFL preseason, my friends and I found new, simple format to play Fantasy Football: each participant drafts a number of professional teams, and whoever has accumulated the most wins at the end of the regular season between their teams, wins. Rather than try to track this week to week manually, I developed a [website](http://fantasy.cullenself.com) that displays the current standings of our league. Using a non-commercial [API](https://mysportsfeeds.com), the leaderboard displays weekly upcoming, in-progress, and completed games. The [project](https://github.com/cullenself/fantasy) was an excellent opportunity to develop various web development skills.
 
 ### Planet, Summer 2017
 As an engineering intern at [Planet](https://www.planet.com), I had the opportunity to work with functioning satellite GPS receivers to characterize and improve their on-orbit performance. I implemented signal quality measuring and reporting in a production enviroment to assist in orbital determination. Planet also provided me with the chance to fulfill a childhood dream, control a satellite. I planned, tested, and executed on-orbit tests of GPS capture techniques to combat RF interference. I also worked with flat-sats to test and develop the next generation receiver for Planet's satellites.
@@ -34,9 +37,9 @@ I have a few other projects up on my GitHub [page](http://github.com/cullenself)
 - C
 - C++
 - Java
+- Javascript
 - Matlab
 - Mathematica
-- Markdown
 - Python
 - Ruby
 
@@ -45,6 +48,7 @@ I have a few other projects up on my GitHub [page](http://github.com/cullenself)
 - LaTeX
 - Linux
 - Microsoft Office
+- Markdown
 - STK
 - Windows
 
@@ -56,7 +60,7 @@ I have a few other projects up on my GitHub [page](http://github.com/cullenself)
 
 ## Hobbies
 - Climbing
-- Playing Piano 
+- Piano 
 - Reading
 - Cooking
 
