@@ -1,6 +1,6 @@
 ## Aerospace Engineer
 ### Austin, TX 
-Aspiring Engineer with both systems engineering and software design experience. 
+Systems Engineering, GN&C Research, Software Design
 - - -
 ## Education
 ### The University of Texas at Austin, May 2018
